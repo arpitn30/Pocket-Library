@@ -1,8 +1,8 @@
 {
     "database": {
-        "host": "localhost",
+        "host": "arpit-db-instance.cneflhizbmvu.us-west-2.rds.amazonaws.com:3306",
         "name": "library",
-        "username": "<name>",
-        "password": "<pass>"
+        "username": "root",
+        "password": "30011996"
     }
 }
